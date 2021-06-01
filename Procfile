@@ -1,1 +1,1 @@
-web: gunicorn demodesk.config.wsgi
+web: gunicorn config.wsgi

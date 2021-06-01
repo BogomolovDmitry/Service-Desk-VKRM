@@ -6,6 +6,7 @@ email-reply-parser
 akismet
 markdown
 django-helpdesk
+django_heroku
 beautifulsoup4
 lxml
 simplejson

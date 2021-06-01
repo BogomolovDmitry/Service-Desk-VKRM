@@ -75,7 +75,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'demo.demodesk.config.wsgi.application'
+WSGI_APPLICATION = 'config.wsgi.application'
 
 
 # django-helpdesk configuration settings
